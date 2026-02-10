@@ -12,6 +12,12 @@ All material in this guide is available [open access](https://archaeologydataser
 :alt: ADS Logo
 ```
 
+```{image} hsds_blue_black.png
+:height: 50px
+:align: left
+:alt: HSDS Logo
+```
+
 ```{image} /images/DAI-logo.jpg
 :height: 50px
 :align: left
